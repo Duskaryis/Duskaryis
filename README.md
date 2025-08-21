@@ -35,7 +35,7 @@ Brief description of what this project does and the technologies used.
 ### [Current Portfolio site](https://github.com/Duskaryis/portfolioSite?tab=readme-ov-file)
 Brief description of what this project does and the technologies used.
 - 🔧 Built with: HTML, CSS, JavaScript
-<!-- - 🌟 Key features: Feature 1, Feature 2, Feature 3 -->
+- 🌟 Key features: Light/Dark Theme, Contact page, Portfolio Cards 
 - 🔗 [Live Demo](https://duskaryis.github.io/portfolioSite/)
 
 ## 📈 Current Goals
