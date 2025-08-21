@@ -1,4 +1,4 @@
-# Hi there, I'm [Your Name] 👋
+# Hi there, I'm [Derek] 👋
 
 ## About Me
 
@@ -54,4 +54,4 @@ Brief description of what this project does and the technologies used.
 
 ---
 
-⭐️ From [Duskaryis](https://github.com/yourusername)
+⭐️ From [Derek](https://github.com/yourusername)
